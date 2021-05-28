@@ -6,9 +6,9 @@
 ! Required: Do poprawnego działania wymagana jest lista Fanboy's Social Blocking List i EasyList/AdGuard Base!
 ! Collaborators: MajkiIT, blocker999, hawkeye116477, xxcriticxx, KonoromiHimaries, RikoDEV, krystian3w
 ! Homepage: https://www.certyficate.it/
-! Version: 2021.5.16.1
-! Last modified: Sun, 16 May 2021, 18:07 UTC+02
-! Expires: 2 days
+! Version: 2022.11.16.1
+! Last modified: Sun, 30 May 2021, 18:07 UTC+02
+! Expires: 9999 days
 ! Support:
 !   GitHub => https://github.com/MajkiIT/polish-ads-filter/issues
 !   Discord => https://discord.me/polskiefiltry
